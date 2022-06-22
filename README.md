@@ -6,7 +6,7 @@
 
 <h1 align="center"> webservice HORSE </h1>
 
-exemplo e CRUD de um webservice em delphi usando framework HORSE;
+exemplo e CRUD de um webservice em delphi usando framework HORSE, a aplicação roda como um terminal CMD;
 
 ![descrição da imagem](https://raw.githubusercontent.com/Aristotelislacerda10/WSHorse/master/TerminalServerHorse.PNG)
  
